@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: var(--color-gray-50);
+  color: var(--color-gray-900);
+}
