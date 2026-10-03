@@ -4,6 +4,7 @@ A modern online store built with **Next.js 16, React 19, TypeScript and Tailwind
 
 It runs on the [Ecom REST API](https://github.com/sheelasaivenkatareddy/Ecom).
 
+[![CI](https://github.com/sheelasaivenkatareddy/Ecommerce/actions/workflows/ci.yml/badge.svg)](https://github.com/sheelasaivenkatareddy/Ecommerce/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
@@ -44,7 +45,7 @@ It runs on the [Ecom REST API](https://github.com/sheelasaivenkatareddy/Ecom).
 | Cart state | Zustand, persisted to localStorage |
 | Validation | Zod |
 | Testing | Vitest |
-| Tooling | ESLint |
+| Tooling | ESLint, GitHub Actions |
 
 ## How it works
 
